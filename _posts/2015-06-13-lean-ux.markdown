@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Lean UX: Applying Lean Principles to Improve User Experience"
+date: 2015-06-13
+categories: books
+---
+
+<p>The effcient way a Product can be done is step by step.</p>
+<a href="http://www.amazon.com/gp/product/B0074KA0A4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B0074KA0A4&linkCode=as2&tag=scofux-20&linkId=SOWSH4VD4AQIHEON"><img border="0" src="http://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0074KA0A4&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=scofux-20" ></a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=scofux-20&l=as2&o=1&a=B0074KA0A4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
